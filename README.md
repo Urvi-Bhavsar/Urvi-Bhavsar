@@ -2,10 +2,6 @@
 <h3 align="center">Software Engineer | React • JavaScript • Node.js • Express.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+React+%26+Node.js;Passionate+about+clean%2C+maintainable+code;Agile+%7C+Scrum+%7C+Full-Stack+JavaScript" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/urvi-bhavsar-a84a09235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@bhavsarurvi143"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
