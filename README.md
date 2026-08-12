@@ -12,6 +12,10 @@
 
 ---
 
+[![An image of @krutiamrutiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/urvi2408)](https://www.holopin.io/@urvi2408#)
+
+---
+
 ### 🚀 About Me
 
 Experienced **Software Engineer** at **Tntra**, specializing in JavaScript development with a strong focus on **React**. I love using cutting-edge technology to craft innovative solutions and deliver high-quality products to clients.
@@ -42,7 +46,6 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -52,17 +55,6 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
----
-
-### 💼 Experience — Tntra (4+ yrs)
-
-| Role | Duration |
-|---|---|
-| Software Engineer 1 | Oct 2023 – Present |
-| Associate Software Engineer | Sep 2022 – Sep 2023 |
-| Intern | May 2022 – Aug 2022 |
 
 ---
 
@@ -91,14 +83,6 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 
 ---
 
-### 🎓 Education
-
-**Maharaja Sayajirao University of Baroda, Vadodara**
-- M.Sc. Applied Mathematics (2020 – 2022)
-- B.Sc. Mathematics (2017 – 2020)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -110,7 +94,7 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the live stats widgets.
+> Replace `urvi2408` above with your actual GitHub username to activate the live stats widgets.
 
 ---
 
