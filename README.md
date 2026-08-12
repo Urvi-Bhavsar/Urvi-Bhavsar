@@ -83,19 +83,4 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
-</p>
-
-> Replace `urvi2408` above with your actual GitHub username to activate the live stats widgets.
-
----
-
 <p align="center">💬 Let's connect and build something great together!</p>
