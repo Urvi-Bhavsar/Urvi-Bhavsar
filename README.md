@@ -57,4 +57,6 @@
 
 <h3 align="center">📊 Statistics</h3> <div align="center"> <a href="https://github.com/Urvi-Bhavsar"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Urvi-Bhavsar&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Urvi-Bhavsar&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Urvi-Bhavsar&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Urvi-Bhavsar&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urvi-Bhavsar&theme=2077" height="180em" /> </a> </div>
 
+---
+
 <p align="center">💬 Let's connect and build something great together!</p>
