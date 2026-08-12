@@ -18,13 +18,12 @@
 
 ### 🚀 About Me
 
-Experienced **Software Engineer** at **Tntra**, specializing in JavaScript development with a strong focus on **React**. I love using cutting-edge technology to craft innovative solutions and deliver high-quality products to clients.
+### 🚀 About Me  
 
-- 🔭 Currently working as **Software Engineer 1** at **Tntra**
-- 🌱 Deep understanding of software development life cycles, Agile & Scrum methodologies
-- 👥 Thrive both as a team player and an individual contributor
-- 📍 Based in Vadodara, Gujarat, India
-- ✍️ I occasionally write on [Medium](https://medium.com/@bhavsarurvi143)
+- 🔭 Currently working in the **React department**  
+- 🌱 Exploring **advanced web development**  
+- 💬 Ask me about **Frontend, Backend, and Databases**  
+- ⚡ Fun fact: **Turning caffeine into code ☕💻**  
 
 ---
 
@@ -55,37 +54,6 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 🧩 Featured Projects
-
-- **Reveali** — Aging-in-place healthcare management platform with HIPAA-compliant data handling, role-based access, and clinical insight dashboards. `React.js` `TypeScript`
-- **Margin & Cost Calculator** — Financial auditing & resource planning portal with region-based cost/sell rate structures and real-time margin analytics. `Express.js` `JavaScript`
-- **ParGo** — Interactive cultural & creator streaming platform connecting the global Indian diaspora via live events and creator engagement tools. `React.js` `TypeScript`
-- **iKyzen** — Enterprise-grade pharmacovigilance training & compliance platform for the pharmaceutical industry. `Express.js` `Node.js`
-- **SETU ERP** — ERP system for a diamond manufacturing company built with Django, React.js, and PostgreSQL.
-- **Gurukula** — MVP for an education & learning management platform built with Next.js.
-- **RnR (Rewards & Recognition)** — In-house employee engagement and recognition platform. `React.js` `JavaScript`
-
----
-
-### 📜 Certifications
-
-<table>
-<tr>
-  <td><a href="https://simpli-web.app.link/e/ej31Qewwx5b"><b>Getting Started with NodeJS</b></a><br/><sub>Simplilearn SkillUp · Feb 2025</sub></td>
-</tr>
-<tr>
-  <td><a href="https://simpli-web.app.link/e/M6ir0BMwQ4b"><b>Introduction to Express JS</b></a><br/><sub>Simplilearn SkillUp · Jul 2026</sub></td>
-</tr>
-<tr>
-  <td><a href="https://simpli-web.app.link/e/VybstVlwQ4b"><b>JavaScript for Beginners</b></a><br/><sub>Simplilearn SkillUp · Nov 2023</sub></td>
-</tr>
-<tr>
-  <td><a href="https://www.mygreatlearning.com/certificate/NIOOHYHR?referrer_code=GLEQHNZB-QUOU"><b>React JS Tutorial</b></a><br/><sub>Great Learning Academy · Nov 2023</sub></td>
-</tr>
-</table>
 
 ---
 
