@@ -73,7 +73,7 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 ### 📜 Certifications
 
 <p>
- <a href="https://simpli-web.app.link/e/ej31Qewwx5b"><img src="https://img.shields.io/badge/Getting%20Started%20with%20NodeJS-%F0%9F%91%81-8CC84B?style=flat-square&logo=node.js&logoColor=white"></a><br/>
+<a href="https://simpli-web.app.link/e/ej31Qewwx5b"><img src="https://img.shields.io/badge/Getting%20Started%20with%20NodeJS-%F0%9F%91%81-8CC84B?style=flat-square&logo=node.js&logoColor=white"></a><br/>
   <a href="https://simpli-web.app.link/e/M6ir0BMwQ4b"><img src="https://img.shields.io/badge/Introduction%20to%20Express%20JS-%F0%9F%91%81-000000?style=flat-square&logo=express&logoColor=white"></a><br/>
   <a href="https://simpli-web.app.link/e/VybstVlwQ4b"><img src="https://img.shields.io/badge/JavaScript%20for%20Beginners-%F0%9F%91%81-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a><br/>
   <a href="https://www.mygreatlearning.com/certificate/NIOOHYHR?referrer_code=GLEQHNZB-QUOU"><img src="https://img.shields.io/badge/React%20JS%20Tutorial-%F0%9F%91%81-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
