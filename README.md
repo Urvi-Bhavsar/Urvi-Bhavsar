@@ -72,14 +72,14 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 
 ### 📜 Certifications
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| Getting Started with NodeJS | Simplilearn SkillUp | Feb 2025 |
-| Introduction to Express JS | Simplilearn SkillUp | Jul 2026 |
-| JavaScript for Beginners | Simplilearn SkillUp | Nov 2023 |
-| Python 101 for Data Science | IBM / Cognitive Class | Nov 2023 |
-| Python for Data Science | IBM (Credly) | Nov 2023 |
-| React JS Tutorial | Great Learning Academy | Nov 2023 |
+<p>
+  <a href="https://simpli-web.app.link/e/ej31Qewwx5b"><img src="https://img.shields.io/badge/View%20Certificate-Getting%20Started%20with%20NodeJS-8CC84B?style=flat-square&logo=node.js&logoColor=white"></a><br/>
+  <a href="https://simpli-web.app.link/e/M6ir0BMwQ4b"><img src="https://img.shields.io/badge/View%20Certificate-Introduction%20to%20Express%20JS-000000?style=flat-square&logo=express&logoColor=white"></a><br/>
+  <a href="https://simpli-web.app.link/e/VybstVlwQ4b"><img src="https://img.shields.io/badge/View%20Certificate-JavaScript%20for%20Beginners-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a><br/>
+  <a href="https://www.mygreatlearning.com/certificate/NIOOHYHR?referrer_code=GLEQHNZB-QUOU"><img src="https://img.shields.io/badge/View%20Certificate-React%20JS%20Tutorial-61DAFB?style=flat-square&logo=react&logoColor=black"></a><br/>
+  <a href="https://courses.cognitiveclass.ai/certificates/e12e3a4a9f5740cc80228f6c0f2fff16"><img src="https://img.shields.io/badge/View%20Certificate-Python%20101%20for%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white"></a><br/>
+  <a href="https://www.credly.com/badges/72e10a3f-ee97-4137-bf74-e24cb213b65c"><img src="https://img.shields.io/badge/View%20Certificate-Python%20for%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white"></a>
+</p>
 
 ---
 
