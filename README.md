@@ -16,8 +16,6 @@
 
 ---
 
-### 🚀 About Me
-
 ### 🚀 About Me  
 
 - 🔭 Currently working in the **React department**  
