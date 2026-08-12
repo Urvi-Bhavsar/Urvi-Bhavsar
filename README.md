@@ -74,19 +74,15 @@ Experienced **Software Engineer** at **Tntra**, specializing in JavaScript devel
 
 <table>
 <tr>
-  <td width="60" align="center"><img src="https://img.shields.io/badge/-🟢-8CC84B?style=flat-square&logoColor=white" width="36"></td>
   <td><a href="https://simpli-web.app.link/e/ej31Qewwx5b"><b>Getting Started with NodeJS</b></a><br/><sub>Simplilearn SkillUp · Feb 2025</sub></td>
 </tr>
 <tr>
-  <td align="center"><img src="https://img.shields.io/badge/-⚫-000000?style=flat-square&logoColor=white" width="36"></td>
   <td><a href="https://simpli-web.app.link/e/M6ir0BMwQ4b"><b>Introduction to Express JS</b></a><br/><sub>Simplilearn SkillUp · Jul 2026</sub></td>
 </tr>
 <tr>
-  <td align="center"><img src="https://img.shields.io/badge/-🟡-F7DF1E?style=flat-square&logoColor=white" width="36"></td>
   <td><a href="https://simpli-web.app.link/e/VybstVlwQ4b"><b>JavaScript for Beginners</b></a><br/><sub>Simplilearn SkillUp · Nov 2023</sub></td>
 </tr>
 <tr>
-  <td align="center"><img src="https://img.shields.io/badge/-🔵-61DAFB?style=flat-square&logoColor=white" width="36"></td>
   <td><a href="https://www.mygreatlearning.com/certificate/NIOOHYHR?referrer_code=GLEQHNZB-QUOU"><b>React JS Tutorial</b></a><br/><sub>Great Learning Academy · Nov 2023</sub></td>
 </tr>
 </table>
