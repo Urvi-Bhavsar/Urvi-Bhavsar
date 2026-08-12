@@ -16,12 +16,12 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me
 
-- 🔭 Currently working in the **React department**  
-- 🌱 Exploring **advanced web development**  
-- 💬 Ask me about **Frontend, Backend, and Databases**  
-- ⚡ Fun fact: **Turning caffeine into code ☕💻**  
+- 🔭 Currently working in the **React department**
+- 🌱 Exploring **advanced web development**
+- 💬 Ask me about **Frontend, Backend, and Databases**
+- ⚡ Fun fact: **Turning caffeine into code ☕💻**
 
 ---
 
@@ -54,5 +54,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
+
+<h3 align="center">📊 Statistics</h3> <div align="center"> <a href="https://github.com/urvi2408"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urvi2408&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urvi2408&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urvi2408&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urvi2408&theme=2077" height="180em" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urvi2408&theme=2077" height="180em" /> </a> </div>
 
 <p align="center">💬 Let's connect and build something great together!</p>
